@@ -1,5 +1,3 @@
 exports.endpoint = function(request, response) {
-    response.end("Hello world!!");
+    response.end("Hello world!!!");
 }
-
-
