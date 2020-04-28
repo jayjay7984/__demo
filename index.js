@@ -3,25 +3,3 @@ exports.endpoint = function(request, response) {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
